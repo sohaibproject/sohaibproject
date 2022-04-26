@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **new framework**
 
-- 💬 Ask me about **laravel , node js ,react ,javascript , php ,bootstap**
+- 💬 Ask me about **laravel , node js ,react ,javascript , php ,bootstrap**
 
 - 📫 How to reach me **projectsohaib@gmail.com**
 
