@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Auto Update Back end**
 
-- 🌱 I’m currently learning **tailwind css**
-
 - 👯 I’m looking to collaborate on **new framework**
 
-- 💬 Ask me about **laravel , node js ,react ,javascript , php ,bootstrap**
+- 💬 Ask me about **laravel , node js ,reactjs ,javascript , php ,bootstrap,redux**
 
-- 📫 How to reach me **projectsohaib@gmail.com**
+- 📫 How to reach me **contact@sohaibboukraa.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
